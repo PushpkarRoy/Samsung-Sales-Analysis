@@ -17,7 +17,7 @@ This project is a deep-dive 🔍 into Samsung's global operations. By analyzing 
    
 ---
    
-## 🔍 Major Insights (The "Aha!" Moments)
+## 🔍 Major Insights (The "Aha!" Moments)    
   
 ### 1. ⚠️ The Inventory Surplus Crisis
 My SQL analysis found a huge gap between the factory floor and the store shelf:
