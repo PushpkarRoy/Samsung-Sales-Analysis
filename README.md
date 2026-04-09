@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Project-Completed-green)
 ![Region](https://img.shields.io/badge/Focus-Global%20%26%20India-orange)
 
-## 📌 Executive Summary
+## 📌 Executive Summary   
 This project is a deep-dive 🔍 into Samsung's global operations. By analyzing six core dashboards—**Overview, Customer, Supplier, Inventory, Production, and Shipment**—I identified multi-million dollar "blind spots." My goal? To turn raw data into a roadmap for a **20% production increase** while slashing waste. 📉✅
 
 ---
