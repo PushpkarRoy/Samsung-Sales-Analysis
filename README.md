@@ -21,7 +21,7 @@ This project is a deep-dive 🔍 into Samsung's global operations. By analyzing 
   
 ### 1. ⚠️ The Inventory Surplus Crisis
 My SQL analysis found a huge gap between the factory floor and the store shelf:
-* **Galaxy S24 Ultra:** Produced 347M ➡️ Sold 8.1M (**Surplus: 339M unsold!** 😲)
+* **Galaxy S24 Ultra:** Produced 347M ➡️ Sold 8.1M (**Surplus: 339M unsold!** 😲)  
 * **Galaxy Buds2 Pro:** Produced 302M ➡️ Sold 8.0M (**Surplus: 294M unsold!** 🎧)
 * **💡 Action:** Scale back production immediately to stop "bleeding" money into warehouse storage.
 
