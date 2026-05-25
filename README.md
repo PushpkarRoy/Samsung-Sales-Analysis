@@ -9,7 +9,7 @@ This project is a deep-dive 🔍 into Samsung's global operations. By analyzing 
 
 ---    
            
-## 🎯 Key Objectives & Impact          
+## 🎯 Key Objectives & Impact               
 * **💰 Maximize Profit:** Analyzed a **$104M Net Profit** with a solid **31.78% margin**.
 * **🏭 Production Fix:** Identified massive over-production in flagship models.  
 * **🚚 Logistics Win:** Solved the "Mumbai-to-Delhi Gap" to lower India's shipping costs.        
