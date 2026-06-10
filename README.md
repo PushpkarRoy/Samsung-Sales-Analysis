@@ -1,74 +1,101 @@
-# 📱 Samsung Global Supply Chain & Profitability Analysis 🚀
+# Samsung Global Supply Chain & Profitability Analysis
 
-![Data Analysis](https://img.shields.io/badge/Analysis-SQL%20%7C%20Power%20BI-blue)
-![Status](https://img.shields.io/badge/Project-Completed-green)
-![Region](https://img.shields.io/badge/Focus-Global%20%26%20India-orange)
+![SQL](https://img.shields.io/badge/Tool-SQL%20%7C%20PostgreSQL-blue)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## 📌 Executive Summary   
-This project is a deep-dive 🔍 into Samsung's global operations. By analyzing six core dashboards—**Overview, Customer, Supplier, Inventory, Production, and Shipment**—I identified multi-million dollar "blind spots." My goal? To turn raw data into a roadmap for a **20% production increase** while slashing waste. 📉✅
+## Project Overview
 
----         
-           
-## 🎯 Key Objectives & Impact               
-* **💰 Maximize Profit:** Analyzed a **$104M Net Profit** with a solid **31.78% margin**.
-* **🏭 Production Fix:** Identified massive over-production in flagship models.  
-* **🚚 Logistics Win:** Solved the "Mumbai-to-Delhi Gap" to lower India's shipping costs.        
-* **⭐ Customer Trust:** Strategy to boost Amazon ratings from "Mid-tier" to **98% Excellent**.
-          
----                   
-             
-## 🔍 Major Insights (The "Aha!" Moments)        
-     
-### 1. ⚠️ The Inventory Surplus Crisis
-My SQL analysis found a huge gap between the factory floor and the store shelf:
-* **Galaxy S24 Ultra:** Produced 347M ➡️ Sold 8.1M (**Surplus: 339M unsold!** 😲)  
-* **Galaxy Buds2 Pro:** Produced 302M ➡️ Sold 8.0M (**Surplus: 294M unsold!** 🎧)
-* **💡 Action:** Scale back production immediately to stop "bleeding" money into warehouse storage.
-
-### 2. 🇮🇳 The India "Logistics Gap"
-* **The Problem:** Our main warehouse is in **Mumbai**, but our biggest buyers are in **Delhi**. 📍
-* **The Cost:** We are paying for 1,400km of unnecessary trucking 🚛, which kills our **Offer Price Efficiency**.
-* **The Fix:** Move the hub closer to the North to unlock better pricing for customers. ⚡
-
-### 3. 💎 High Brand Equity (0% Discount Success)
-* **The Data:** **51.13%** of customers buy at **FULL PRICE**. 🏷️
-* **The Insight:** Samsung doesn't need to "beg" with discounts. Our brand is strong! 
-* **The Move:** Stop broad discounting and protect our margins. 🛡️
-
-### 4. 🚢 Shipping & Delivery Bottlenecks
-* **Current:** **92.36%** 📈 | **Target:** **98%** 🏆
-* **Top Delay Reasons:** 1. 🚢 **Carrier Capacity** (15.71%)
-  2. 📝 **Documentation Issues** (13.61%)
-  3. ⚓ **Port Congestion** (12.74%)
+A comprehensive supply chain and profitability analysis of Samsung's global operations,
+built using SQL (PostgreSQL) and Power BI. The project covers 10 interconnected data
+tables and delivers a 6-page interactive dashboard with stakeholder-specific insights
+for the CEO, COO, Investors, Supply Chain Manager, and India Market team.
 
 ---
 
-## 🛠️ My Tech Stack
-* **💻 SQL (PostgreSQL):** Window functions, complex JOINS, and profit variance.
-* **📊 Power BI:** Interactive dashboards for real-time supply chain tracking.
-* **🗣️ Data Storytelling:** Turning boring numbers into "CEO-ready" strategy.
+## Dashboard Preview
+
+> <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d7574ecd-967d-4be5-8bee-050a401a4259" />
+---
+
+## Problem Statement
+
+Samsung operates across complex, multi-region supply chains involving sales, production,
+inventory, shipments, procurement, and customer data. Without consolidated visibility,
+inefficiencies in production volume, logistics routing, and delivery performance go
+undetected — directly impacting profitability.
 
 ---
 
-## 📈 Top 6 KPIs for Success
-1. **💵 Net Profit Margin:** 31.78%
-2. **💰 Total Revenue:** $328 Million
-3. **🛠️ Defect Rate:** 0.73% (High Quality! ✅)
-4. **📦 Shipping Performance:** 92.36%
-5. **🔄 Inventory Surplus:** Identifying the 339M unit "Dead Stock."
-6. **🎯 Offer Efficiency:** Measuring the ROI of every dollar discounted.
+## Key Business Findings
+
+### 1. Inventory Surplus Crisis
+SQL analysis revealed a critical gap between production and actual sales:
+
+| Product | Units Produced | Units Sold | Surplus |
+|---|---|---|---|
+| Galaxy S24 Ultra | 347,369,757 | 8,120,856 | 339,248,901 |
+| Galaxy Buds2 Pro | 302,526,040 | 8,028,894 | 294,497,146 |
+
+**Recommendation:** Immediately scale back production on these two SKUs to eliminate
+warehousing costs and redirect budget to high-demand products.
+
+### 2. India Logistics Gap
+- Main warehouse: Mumbai | Primary demand center: Delhi
+- Distance: 1,400+ km of unnecessary transit
+- Impact: Lowest "Offer Price Efficiency" among all regions
+
+**Recommendation:** Relocate or add a distribution hub closer to Delhi to reduce
+transit costs and improve competitive pricing.
+
+### 3. Brand Strength — Discount Analysis
+51.13% of customers purchase at full price with 0% discount applied, indicating
+strong brand equity. Broad discounting is unnecessary and margin-dilutive.
+
+### 4. Shipment Performance Gap
+- Current delivery rate: 92.36%
+- Industry "Excellent" benchmark: 95–98%
+- Top delay causes: Carrier Capacity (15.71%), Documentation Issues (13.61%),
+  Port Congestion (12.74%)
 
 ---
 
-## 💡 Final Conclusion
-By aligning production with real demand and fixing the India logistics map, Samsung can stop wasting resources and safely **scale production by 20%**. This project proves that **Efficiency = Profitability.** 🚀🔥
+## Key KPIs
+
+| Metric | Value |
+|---|---|
+| Total Revenue | $176.95M |
+| Net Profit | $48.56M |
+| Profit Margin | 27.44% |
+| Production Defect Rate | 0.73% |
+| On-Time Delivery Rate | 92.36% |
+| Perfect Order Rate | 75% |
 
 ---
 
-### 👨‍💻 Let's Connect!
+## Tools & Techniques
 
-**Pushpkar Roy**  
-📧 pushpkarroy880@gmail.com  
+- **SQL (PostgreSQL):** Complex JOINs across 10 tables, window functions,
+  profit variance analysis, stakeholder-specific query sets
+- **Power BI:** 6-page interactive dashboard — Overview, Supplier, Inventory,
+  Shipment, Customer, India Market
+- **Data Storytelling:** Business recommendations structured for CEO, COO,
+  Investor, and Supply Chain Manager audiences
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pushpkar-roy)  
-🔗 [GitHub](https://github.com/PushpkarRoy)
+---
+
+## Conclusion
+
+By aligning production volume with real demand and addressing the India
+logistics routing gap, Samsung can reduce avoidable costs and safely scale
+production by 20%. This project demonstrates that supply chain efficiency
+is directly measurable — and directly improvable — through structured data analysis.
+
+---
+
+## Connect
+
+**Pushpkar Roy**
+- Email: pushpkarroy880@gmail.com
+- LinkedIn: [linkedin.com/in/pushpkar-roy](https://www.linkedin.com/in/pushpkar-roy)
+- GitHub: [github.com/PushpkarRoy](https://github.com/PushpkarRoy)
