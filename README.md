@@ -10,7 +10,7 @@ A comprehensive supply chain and profitability analysis of Samsung's global oper
 built using SQL (PostgreSQL) and Power BI. The project covers 10 interconnected data
 tables and delivers a 6-page interactive dashboard with stakeholder-specific insights
 for the CEO, COO, Investors, Supply Chain Manager, and India Market team.
-
+ 
 ---
      
 ## Dashboard Preview
