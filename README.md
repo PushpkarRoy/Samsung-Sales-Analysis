@@ -12,7 +12,7 @@ tables and delivers a 6-page interactive dashboard with stakeholder-specific ins
 for the CEO, COO, Investors, Supply Chain Manager, and India Market team.
  
 ---
-     
+         
 ## Dashboard Preview
 
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d7574ecd-967d-4be5-8bee-050a401a4259" />
