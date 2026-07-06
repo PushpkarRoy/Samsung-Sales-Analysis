@@ -17,7 +17,7 @@ for the CEO, COO, Investors, Supply Chain Manager, and India Market team.
 
 > <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d7574ecd-967d-4be5-8bee-050a401a4259" />
 ---
-    
+        
 ## Problem Statement
 
 Samsung operates across complex, multi-region supply chains involving sales, production,
