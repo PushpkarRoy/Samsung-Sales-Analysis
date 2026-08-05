@@ -19,7 +19,7 @@ for the CEO, COO, Investors, Supply Chain Manager, and India Market team.
 ---
         
 ## Problem Statement
-
+    
 Samsung operates across complex, multi-region supply chains involving sales, production,
 inventory, shipments, procurement, and customer data. Without consolidated visibility,
 inefficiencies in production volume, logistics routing, and delivery performance go
