@@ -4,7 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## Project Overview 
+## Project Overview     
 
 A comprehensive supply chain and profitability analysis of Samsung's global operations,
 built using SQL (PostgreSQL) and Power BI. The project covers 10 interconnected data
