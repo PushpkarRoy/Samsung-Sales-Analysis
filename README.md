@@ -24,7 +24,7 @@ Samsung operates across complex, multi-region supply chains involving sales, pro
 inventory, shipments, procurement, and customer data. Without consolidated visibility,
 inefficiencies in production volume, logistics routing, and delivery performance go
 undetected — directly impacting profitability.
-
+  
 ---
 
 ## Key Business Findings
